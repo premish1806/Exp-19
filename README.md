@@ -84,6 +84,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/034e2c8e-af8c-4fef-aaf0-3a944430e34e)
 
 ## Conclusion:
 This program demonstrates the basic working of a queue using a fixed-size array in C++. It successfully handles operations like enqueue, dequeue, and display. The queue operates on the FIFO principle, and the program checks for both full and empty conditions, providing relevant feedback. This implementation highlights the practical use of queues in scenarios where sequential data processing is required.
